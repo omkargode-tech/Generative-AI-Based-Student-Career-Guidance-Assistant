@@ -1,0 +1,256 @@
+{
+  "roles": [
+    {
+      "id": "data_analyst",
+      "role": "Data Analyst",
+      "industries": ["technology", "finance", "healthcare", "retail", "business services"],
+      "qualifications": [
+        "A degree or diploma in computer science, statistics, mathematics, economics, commerce, business or a related field can be relevant.",
+        "Employers differ: some accept strong practical skills and a project portfolio in place of a directly related degree."
+      ],
+      "responsibilities": [
+        "Collect, clean and organise data.",
+        "Use SQL and spreadsheets to answer business questions.",
+        "Create reports and dashboards.",
+        "Explain trends and findings to stakeholders."
+      ],
+      "skills": ["Excel or spreadsheets", "SQL", "statistics", "data cleaning", "Python", "Power BI or Tableau", "data visualisation", "communication"],
+      "certifications": [
+        {
+          "name": "Microsoft Certified: Power BI Data Analyst Associate",
+          "url": "https://learn.microsoft.com/en-in/credentials/certifications/data-analyst-associate/",
+          "note": "An intermediate Power BI credential. Review the current exam skills and prerequisites before preparing."
+        },
+        {
+          "name": "Google Career Certificates catalogue",
+          "url": "https://grow.google/intl/en_in/certificates/",
+          "note": "Check the current catalogue for data analytics learning options, pricing and availability in India."
+        }
+      ],
+      "learning_resources": ["Google Career Certificates", "Microsoft Learn", "Coursera", "SWAYAM", "NPTEL"],
+      "project_ideas": [
+        "Analyse a public sales dataset and build a Power BI dashboard.",
+        "Use SQL to answer questions about customer behaviour or business performance."
+      ]
+    },
+    {
+      "id": "business_analyst",
+      "role": "Business Analyst",
+      "industries": ["business services", "banking", "technology", "consulting", "operations"],
+      "qualifications": [
+        "Business, commerce, economics, information technology, engineering or management education can be relevant.",
+        "Domain knowledge, communication and evidence of analytical work are useful; exact requirements vary by employer."
+      ],
+      "responsibilities": [
+        "Understand business problems and stakeholder needs.",
+        "Document requirements and process workflows.",
+        "Analyse business data and prepare reports.",
+        "Coordinate with business and technical teams."
+      ],
+      "skills": ["requirements gathering", "Excel", "SQL basics", "process mapping", "communication", "problem solving", "Power BI", "user stories"],
+      "certifications": [
+        {
+          "name": "IIBA Entry Certificate in Business Analysis (ECBA)",
+          "url": "https://www.iiba.org/business-analysis-certifications/ecba",
+          "note": "A foundational business-analysis credential. Review the current package, exam and fee information on IIBA's site."
+        }
+      ],
+      "learning_resources": ["Coursera", "edX", "Microsoft Learn", "SWAYAM", "NPTEL"],
+      "project_ideas": [
+        "Map an inefficient college or small-business process and propose an improved workflow.",
+        "Write a short business requirements document and user stories for a simple application."
+      ]
+    },
+    {
+      "id": "ai_ml_engineer",
+      "role": "AI / Machine Learning Engineer",
+      "industries": ["technology", "finance", "healthcare", "manufacturing", "research"],
+      "qualifications": [
+        "Computer science, information technology, mathematics, statistics, electronics or a related technical background is commonly useful.",
+        "Strong programming, mathematics and practical machine-learning projects are important."
+      ],
+      "responsibilities": [
+        "Prepare data and build machine-learning models.",
+        "Train, evaluate and improve model performance.",
+        "Integrate models into applications or services.",
+        "Monitor model behaviour and communicate limitations."
+      ],
+      "skills": ["Python", "statistics", "linear algebra", "machine learning", "scikit-learn", "PyTorch", "SQL", "APIs", "model evaluation"],
+      "certifications": [],
+      "learning_resources": ["Hugging Face Learn", "Coursera", "edX", "Microsoft Learn", "SWAYAM", "NPTEL"],
+      "project_ideas": [
+        "Train and evaluate a classification model on a public dataset, documenting precision and recall.",
+        "Build a small machine-learning API and demonstrate it with a simple user interface."
+      ]
+    },
+    {
+      "id": "software_developer",
+      "role": "Software Developer",
+      "industries": ["technology", "finance", "healthcare", "e-commerce", "manufacturing"],
+      "qualifications": [
+        "Computer science, information technology or another technical qualification can help.",
+        "Some employers consider candidates from other backgrounds who demonstrate programming ability and complete projects."
+      ],
+      "responsibilities": [
+        "Design, build and maintain software features.",
+        "Work with APIs, databases and user interfaces.",
+        "Debug code and improve reliability.",
+        "Collaborate using version control and code reviews."
+      ],
+      "skills": ["Python, Java or JavaScript", "data structures", "Git", "SQL", "APIs", "testing", "debugging", "software design"],
+      "certifications": [],
+      "learning_resources": ["GitHub Skills", "Microsoft Learn", "Coursera", "edX", "SWAYAM", "NPTEL"],
+      "project_ideas": [
+        "Build a CRUD application with authentication and a relational database.",
+        "Create a REST API, document its endpoints and deploy a small demo."
+      ]
+    },
+    {
+      "id": "financial_analyst",
+      "role": "Financial Analyst",
+      "industries": ["banking", "financial services", "insurance", "corporate finance", "investment research"],
+      "qualifications": [
+        "Commerce, finance, accounting, economics, business or management education is relevant for many roles.",
+        "Some specialised finance roles have additional regulatory, employer or professional requirements."
+      ],
+      "responsibilities": [
+        "Review financial statements and business performance.",
+        "Prepare budgets, forecasts and financial models.",
+        "Compare financial results and explain variances.",
+        "Present findings to managers or clients."
+      ],
+      "skills": ["accounting basics", "Excel", "financial modelling", "financial statement analysis", "valuation basics", "PowerPoint", "communication", "data analysis"],
+      "certifications": [
+        {
+          "name": "NISM certification examinations",
+          "url": "https://www.nism.ac.in/certifications/",
+          "note": "Relevant mainly to securities-market and financial-services pathways. Select an exam only after reviewing its scope and current requirements."
+        }
+      ],
+      "learning_resources": ["Coursera", "edX", "SWAYAM", "NPTEL", "Google Career Certificates"],
+      "project_ideas": [
+        "Create a three-statement overview or a basic financial forecast using public company information.",
+        "Compare the financial performance of two companies using publicly available annual reports."
+      ]
+    },
+    {
+      "id": "mechanical_design_engineer",
+      "role": "Mechanical Design Engineer",
+      "industries": ["manufacturing", "automotive", "aerospace", "industrial equipment", "product design"],
+      "qualifications": [
+        "A diploma or degree in mechanical engineering or a closely related discipline is commonly relevant.",
+        "CAD practice, engineering fundamentals and a portfolio of design work can strengthen an application."
+      ],
+      "responsibilities": [
+        "Create and modify 2D drawings and 3D CAD models.",
+        "Select materials and components using engineering constraints.",
+        "Check designs for manufacturability and performance.",
+        "Work with production, quality and engineering teams."
+      ],
+      "skills": ["engineering drawing", "CAD", "SolidWorks or Autodesk tools", "GD&T", "mechanics", "materials", "manufacturing processes", "basic FEA"],
+      "certifications": [
+        {
+          "name": "SOLIDWORKS Design Associate (CSWA) certification programme",
+          "url": "https://www.solidworks.com/solidworks-certification-program",
+          "note": "A CAD skills credential to consider after gaining hands-on practice. Check current exam format, pricing and academic options."
+        }
+      ],
+      "learning_resources": ["Autodesk Learning", "SWAYAM", "NPTEL", "Coursera", "edX"],
+      "project_ideas": [
+        "Model a mechanical component in CAD and produce a dimensioned engineering drawing.",
+        "Design a simple assembly and explain material and manufacturing choices."
+      ]
+    },
+    {
+      "id": "automotive_engineer",
+      "role": "Automotive Engineer",
+      "industries": ["automotive", "electric vehicles", "mobility", "manufacturing", "automotive suppliers"],
+      "qualifications": [
+        "Automobile, mechanical, electrical, electronics or mechatronics education can be relevant depending on the specialisation.",
+        "Vehicle systems knowledge, lab or workshop exposure and practical projects are valuable."
+      ],
+      "responsibilities": [
+        "Work on vehicle systems, components or subsystems.",
+        "Support design, testing, validation or manufacturing activities.",
+        "Analyse performance, safety, reliability or efficiency data.",
+        "Coordinate with design, production and supplier teams."
+      ],
+      "skills": ["vehicle systems", "thermodynamics", "mechanics", "CAD", "manufacturing", "electrical fundamentals", "testing", "data analysis"],
+      "certifications": [],
+      "learning_resources": ["NPTEL", "SWAYAM", "edX", "Coursera", "Autodesk Learning"],
+      "project_ideas": [
+        "Prepare a comparative technical report on an internal-combustion vehicle and an electric vehicle.",
+        "Create a CAD model of a simple vehicle component and document its design constraints."
+      ]
+    }
+  ],
+  "learning_portals": [
+    {
+      "name": "NPTEL",
+      "url": "https://nptel.ac.in/",
+      "description": "Online courses from Indian academic institutions; check the current course catalogue and certification process."
+    },
+    {
+      "name": "SWAYAM",
+      "url": "https://swayam.gov.in/search_courses",
+      "description": "Search courses across subject areas and providers, including NPTEL offerings."
+    },
+    {
+      "name": "Coursera",
+      "url": "https://www.coursera.org/",
+      "description": "Search university and industry courses, guided projects and professional certificates."
+    },
+    {
+      "name": "edX",
+      "url": "https://www.edx.org/",
+      "description": "Explore university and industry learning programmes across technical and business subjects."
+    },
+    {
+      "name": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/training/",
+      "description": "Free self-paced learning paths and modules for Microsoft technologies and related skills."
+    },
+    {
+      "name": "Google Career Certificates",
+      "url": "https://grow.google/intl/en_in/certificates/",
+      "description": "Review Google's current online career-certificate catalogue and India-specific details."
+    },
+    {
+      "name": "Hugging Face Learn",
+      "url": "https://huggingface.co/learn",
+      "description": "Learning material for machine learning, natural language processing and open-source AI tools."
+    },
+    {
+      "name": "GitHub Skills",
+      "url": "https://skills.github.com/",
+      "description": "Hands-on exercises for GitHub, version control and collaborative development."
+    },
+    {
+      "name": "Autodesk Learning",
+      "url": "https://www.autodesk.com/learn",
+      "description": "Learning resources for Autodesk design and engineering software."
+    }
+  ],
+  "job_search_resources": [
+    {
+      "name": "National Career Service (India)",
+      "url": "https://www.ncs.gov.in/",
+      "description": "Government career and employment services, including job search and career support."
+    },
+    {
+      "name": "LinkedIn Jobs",
+      "url": "https://in.linkedin.com/jobs",
+      "description": "Search jobs and internships and explore employer postings."
+    },
+    {
+      "name": "Naukri",
+      "url": "https://www.naukri.com/",
+      "description": "Search job listings across Indian industries and locations."
+    },
+    {
+      "name": "Indeed India",
+      "url": "https://in.indeed.com/",
+      "description": "Search job listings and employer opportunities in India."
+    }
+  ]
+}
